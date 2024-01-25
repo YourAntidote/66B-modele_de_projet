@@ -6,7 +6,7 @@
     - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
-    - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
+    - [Moodboard](#Moodboard)
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
@@ -27,216 +27,164 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
-## Cartographie
-> Exemples:
-
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Par ce projet, nous souhaitons pousser l'intéracteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulative.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
+Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction écrite au tout début de chacun. De plus, le passage d'un chapitre à l'autre sera annoncé par la transition de couleurs des tubes LED. Le public est appelé à découvrir les différents chapitres qui composent le projet en explorant les diverses composantes de la boîte.
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+## Moodboard
+### Moodboard pour le mode veille
+> ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
+### Moodboard pour le chapitre 01
+> ![Moodboard pour le chapitre 01](medias/moodboards/moodboard_chapitre01.png)
+### Moodboard pour le chapitre 02
+> ![Moodboard pour le chapitre 02](medias/moodboards/moodboard_chapitre02.png)
+### Moodboard pour le chapitre 03
+> ![Moodboard pour le chapitre 03](medias/moodboards/moodboard_chapitre03.png)
+### Exemples de paysages visuels génératifs
+> [Circle packing - GLSL - (Touchdesigner tutorial)](https://www.youtube.com/watch?v=r3aOQMB7qiI)
 
-## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+> [Ocean of Particles . Part 1 . TouchDesigner](https://www.youtube.com/watch?v=wdAFCVKLG88)
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
+> [audio-visual 1](https://www.youtube.com/watch?v=9ehYJY_W-OA)
 
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+> [Audio Visual "Particle and Rectangle"](https://www.youtube.com/watch?v=NsVl-C9X_Ho)
 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+> [Audio reactive pseudo Voronoi made with TouchDesigner](https://www.youtube.com/watch?v=TOg9AAa832w)
+
+> [Audio Visual "Particle becoming a line"](https://www.youtube.com/watch?v=GggxXKngdTA)
+
+> [Heavier Than Heaven](https://www.youtube.com/watch?v=NQzKAPyHcTY)
+
+> [Entering The Stronghold | Audio Visual Animation HD!](https://www.youtube.com/watch?v=0pXYp72dwl0)
+ 
+> [particlewave (audio-reactive touchdesigner tutorial 001)](https://www.youtube.com/watch?v=ATLhkFcQZN0)
+
+> [Generative Art | Particles in TouchDesigner](https://www.youtube.com/watch?v=3snFQtLRJqs&t=2s)
+ 
+> [TOUCHDESIGNER TUTORIAL 21/007 INSTANCED GENERATIVE LIQUID](https://www.youtube.com/watch?v=MrkERTy7b6k)
+ 
+> [Data Entropy. TouchDesigner Tutorial](https://www.youtube.com/watch?v=E9UjSuGu_Kw)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 15 icônes de navigation (pour les utilisateur-trices)
-- 8 montages d'image
-- 3 paysages sonores
-- 5 vidéos d'animation 2D
-- 3 textes poétiques
-- 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
-- ...
-
-Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
-
-## Univers artistique des éléments
-Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3}).
+- 3 paysages visuels génératifs (TouchDesigner)
+- 3 paysages sonores (VCV Rack)
+- 6 modules multimédias (Captation des données (kinect/boite son), interprétation des données, contrôle des tubes LED, effets audiovisuels, contrôle vidéo/mapping projection, contrôle de la navigation utilisateur & des différents sous-modules).
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
 
-### Plantation 
+### Schéma de plantation 
+> ![Schéma de plantation]()
 
-![exemple de plantation](medias/o3_plantation.svg)
+### Image du podium
+> ![Image du podium sous différents angles](medias/podium/podium.png)
 
-### Schéma de branchement 
-
-![exemple de schema](medias/livestream_branchements.png)
+### Schéma de branchement de l'installation
+> ![Schéma de branchement de l'installation]()
+### Schéma de branchement de la boîte sonore
+> ![Schéma de branchement de la boîte sonore]()
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* 4 toiles pour la rétroprojection
+* Système d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 2 haut-parleurs actifs de 4"
+    * 4 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 8 sorties et au moins 1 entrée
+    * 5 casques d'écouteurs
+    * Carte de son
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 5 projecteurs vidéo lentille grand angle 0.5
+    * Kinect v1
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * 8 tubes LED
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 2 multiprises
 
 * Réseau
     * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+    * Switch POE 5 ports
 
 * Ordinateur
-    * 1 ordinateur portable 
-    
+    * 1 ordinateur portable
+    * 1 ordinateur sur chariot
+ 
+* Arduino
+    * 3 Atom Lite
+    * 3 Atom POE
+    * M5Stack 8-Encoder Unit (https://www.robotshop.com/products/8-encoder-unit-stm32f030)
+    * 4 Key Unit
+    * 2 PBHub
+    * 1 GroveHub
+    * 2 M5Stack Fader Unit w/ B10K Potentiometer (https://www.robotshop.com/products/m5stack-fader-unit-w-b10k-potentiometer-sk6812)
+      
 * Autre
-    * Tout autre élément pertinent
-
+    * Boîte sonore (à créer)
+    * Podium (à créer)
+  
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [TouchDesigner](https://derivative.ca/UserGuide/TouchDesigner)
+* [VCV Rack](https://vcvrack.com/)
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* [Kinect v1.8 studio](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
-
+  
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
-
-* Petit studio
-    * Enregsitrement audio
+    * Rétroprojection vidéo dans le grand studio
 
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
-| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
-|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Contrainte ou problème potentiel                                                                                                          | Solution envisagée                                                                                                              
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Apprendre et maîtriser un tout nouveau logiciel, soit TouchDesigner                                                                       | Expérimentation durant la session |                                                                                             
+| Apprendre à utiliser la kinect pour la captation live                                                                                     | Expérimentation durant la session et documentation sur le web |                                                                 
+| Réaliser la boîte sonore et intégrer les différentes composantes, c’est-à-dire analogues (sortie audio) et électriques (microcontrôleurs) | Acheter le matériel nécéssaire |
+| Relier la boîte au reste de l’installation                                                                                                | Faire plusieurs itérations de visuel pour que le visuel et le son se complémentent et intéragissent bien ensemble |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
-
-
-## Échéancier global
-Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
-
-*Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
-
-## Liste des tâches à réaliser
-Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
-
-Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+Construire la boîte de sons et intégrer toutes ces différentes composantes servant à créer du son (150$)
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant E**
-- Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
+**Vincent Desjardins**
+- Coordination technique et artistique du projet
+- Création du module d'interprétation des données (Kinect)
+- Programmation du patch touchdesigner de génération vidéo
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+**Camélie Laprise**
 
-**Étudiant D**
-- Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
+- Coordination technique du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
+- Création des paysages sonores
+- Créations de visuels
+- Installation de l'équipement dans l'espace physique
 
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+**Ghita Alaoui**
+- Création de visuels
+- Mapping
+- Installation de l'équipement dans l'espace physique
 
-**Étudiant C**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Étudiant B**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**Étudiant A**
-- Création des images;
-- Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
-
-## Moments des rencontres d'équipe
-Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
-
-Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+**Antoine Haddad**
+- Installation de l'équipement dans l'espace physique
+- Coordination des projections/projecteurs
+- Création du boîtier interactif au milieu de l'installation
