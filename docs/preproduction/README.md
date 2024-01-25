@@ -34,6 +34,8 @@ Par ce projet, nous souhaitons pousser l'intéracteur à se déchaîner de toute
 ## Synopsis
 Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction écrite au tout début de chacun. De plus, le passage d'un chapitre à l'autre sera annoncé par la transition de couleurs des tubes LED. Le public est appelé à découvrir les différents chapitres qui composent le projet en explorant les diverses composantes de la boîte.
 
+## Installation
+
 ## Moodboard
 ### Moodboard pour le mode veille
 > ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
@@ -91,8 +93,8 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 
 ## Matériel de scénographie requis
 
-* 4 toiles pour la rétroprojection
-* Système d'accrochage au sol pour subdiviser l'endroit de déploiement/faux mur en toile
+* 2 murs mobiles
+* Rideau noir
 
 ## Équipements requis
 
@@ -100,7 +102,7 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
     * 2 haut-parleurs actifs de 4"
     * 4 fils XLR 3 conducteurs de 15' (M->F)
     * Interface audio USB disposant 8 sorties et au moins 1 entrée
-    * 5 casques d'écouteurs
+    * 4 casques d'écouteurs
     * Carte de son
 
 * Vidéo
@@ -108,7 +110,7 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
     * Kinect v1
 
 * Lumière
-    * 8 tubes LED
+    * 6 lumières 5HEX
 
 * Électricité
     * 4 cordon IEC (pour l'alimentation des haut-parleurs)
