@@ -87,9 +87,9 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 > ![Image du podium sous différents angles](medias/podium/podium.png)
 
 ### Schéma de branchement de l'installation
-> ![Schéma de branchement de l'installation]()
+> ![Schéma de branchement de l'installation](medias/schemas/schemas_branchement.png)
 ### Schéma de branchement de la boîte sonore
-> ![Schéma de branchement de la boîte sonore]()
+> ![Schéma de branchement de la boîte sonore](medias/schemas/schemas_branchement_boite_sonore.png)
 
 ## Matériel de scénographie requis
 
