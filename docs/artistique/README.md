@@ -32,7 +32,7 @@ Le temps se divise en deux dans notre projet, à commencer avec chronos proposé
 * Hyperstimulation
 
 ### Pourquoi ?
-Lâcher prise (déchainer)
+Nous souhaitons pousser l'intéracteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif.
 
 ### Quelles questions votre projet met-il dans l’esprit de l’interacteur ?
 
