@@ -37,7 +37,8 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 ## Installation
 L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'intéracteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes Arduino : Atom Lite, Atom POE, M5Stack 8-Encoder Unit, Key Unit, PBHub, GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de LED tout autour qui réagiront au fil de l'intéraction.
 
-## Moodboard
+## Moodboard visuel
+
 ### Moodboard pour le mode veille
 > ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
 ### Moodboard pour le chapitre 01
@@ -82,6 +83,29 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 > [Mike Dean | Three Jewels](https://www.youtube.com/watch?v=y3QgXLLX_Rs)
 
 > [Aaron Batzdorff - TikTok](https://www.tiktok.com/@aaronbatzdorff/video/7256329924485582122)
+
+## Rôle des composantes
+
+Encodeurs :
+
+* Mélodie qui change de gamme
+* Reverb
+* Dry\Wet Reverb
+* Changement de Noise (White, Brown, Red, etc.)
+* Changement de Wave form.
+* Attack
+* Release
+* Timbre\Harmonic
+  
+Boutons (Toggle) :
+* Bass lignes
+* Hat
+* Kick
+* Snare
+  
+Fader :
+* Changement de vitesse\Tempo
+* Volume
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
