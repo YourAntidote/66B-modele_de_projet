@@ -111,7 +111,7 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * Kinect v1
 
 * Lumière
-    * 6 lumières 5HEX
+    * Bandes autocollantes LED
 
 * Électricité
     * 4 cordon IEC (pour l'alimentation des haut-parleurs)
