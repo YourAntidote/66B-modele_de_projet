@@ -166,7 +166,7 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-Construire la boîte de sons et intégrer toutes ces différentes composantes servant à créer du son (150$)
+Construire le podium et la boîte de sons et intégrer toutes ces différentes composantes servant à créer du son (200$)
 
 ## Rôles et responsabilités des membres de l'équipe
 
@@ -176,7 +176,6 @@ Construire la boîte de sons et intégrer toutes ces différentes composantes se
 - Programmation du patch touchdesigner de génération vidéo
 
 **Camélie Laprise**
-
 - Coordination technique du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
 - Création des paysages sonores
 - Créations de visuels
@@ -184,6 +183,7 @@ Construire la boîte de sons et intégrer toutes ces différentes composantes se
 
 **Ghita Alaoui**
 - Création de visuels
+- Création des paysages sonores
 - Mapping
 - Installation de l'équipement dans l'espace physique
 
