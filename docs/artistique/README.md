@@ -1,1 +1,3 @@
-# Dans ce document, vous trouverez tout ce qui concerne notre direction artistique.
+# Direction artistique
+## Semaine 2 
+
