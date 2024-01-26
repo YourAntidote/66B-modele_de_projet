@@ -2,6 +2,6 @@
 
 ## Semaine 2 
 
-# Nom d'équipe
+### Nom d'équipe
 
 Miray
