@@ -82,7 +82,7 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 ## Schémas ou plans techniques
 
 ### Schéma de plantation 
-> ![Schéma de plantation]()
+> ![Schéma de plantation](medias/schemas/schema_plantation.png)
 
 ### Image du podium
 > ![Image du podium sous différents angles](medias/podium/podium.png)
