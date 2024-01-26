@@ -35,7 +35,7 @@ Par ce projet, nous souhaitons pousser l'intéracteur à se déchaîner de toute
 Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction écrite au tout début de chacun. De plus, le passage d'un chapitre à l'autre sera annoncé par la transition de couleurs des tubes LED. Le public est appelé à découvrir les différents chapitres qui composent le projet en explorant les diverses composantes de la boîte.
 
 ## Installation
-
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'intéracteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes Arduino : Atom Lite, Atom POE, M5Stack 8-Encoder Unit, Key Unit, 2 PBHub, 1 GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de LED tout autour qui réagiront au fil de l'intéraction.
 
 ## Moodboard
 ### Moodboard pour le mode veille
