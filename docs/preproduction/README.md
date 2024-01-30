@@ -31,7 +31,7 @@
 # Intention ou concept
 
 ## Intention de départ
-Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulative. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique futuristique et abstrait qui permet de rendre l'installation accessible pour tout le monde. 
+Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulative. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique psychédélique qui permet de rendre l'installation accessible pour tout le monde. 
 
 ## Synopsis
 Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction écrite au tout début de chacun. De plus, le passage d'un chapitre à l'autre sera annoncé par la transition de couleurs des bandes autocollantes LED disposées sur le podium. Le public est appelé à découvrir les différents chapitres qui composent le projet en explorant les diverses composantes de la boîte.
