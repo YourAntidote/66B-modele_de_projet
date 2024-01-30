@@ -26,11 +26,7 @@
 - Arranger les erreurs dans la présentation de la préproduction. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![Image du moodboard visuel pour le mode veille](medias/camelie_laprise/image_realisation_fiere_s1.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
