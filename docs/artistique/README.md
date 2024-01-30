@@ -18,7 +18,7 @@ Explorateur
 L’interacteur est amené à découvrir l’expérience en entrant dans la zone délimitée qui offre au sol une projection impactée par les déplacements de l’interacteur. Ce dernier est ensuite poussé à se diriger vers le podium pour manipuler les diverses composantes et ainsi créer sa propre composition sonore et visuelle.
 
 ### Esthétique
-L’esthétique abstraite et futuristique des paysages sonores et visuels obligent l’interacteur à se déchaîner, car il n’a aucune référence sur ce qu’il voit et ce qu’il entend. Il découvre un monde sans contraintes inconnu du monde présent.
+L’esthétique psychédélique des paysages sonores et visuels obligent l’interacteur à se déchaîner, car il n’a aucune référence sur ce qu’il voit et ce qu’il entend. Il découvre un monde sans contraintes inconnu du monde présent.
 
 ### Espace
 L’installation se présente comme une enceinte exclue afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent et vivent ensemble une toute nouvelle expérience.
