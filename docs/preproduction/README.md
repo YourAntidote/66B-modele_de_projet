@@ -87,7 +87,6 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 ## Rôle des composantes
 
 Encodeurs :
-
 * Mélodie qui change de gamme
 * Reverb
 * Dry\Wet Reverb
@@ -143,7 +142,7 @@ Fader :
     * Carte de son
 
 * Vidéo
-    * 5 projecteurs vidéo lentille grand angle 0.5
+    * 4 projecteurs vidéo lentille grand angle 0.5
     * Kinect v1
 
 * Lumière
@@ -163,8 +162,8 @@ Fader :
     * 1 ordinateur sur chariot
  
 * Arduino
-    * 3 Atom Lite
-    * 3 Atom POE
+    * 2 Atom Lite
+    * 2 Atom POE
     * M5Stack 8-Encoder Unit (https://www.robotshop.com/products/8-encoder-unit-stm32f030)
     * 4 Key Unit
     * 2 PBHub
