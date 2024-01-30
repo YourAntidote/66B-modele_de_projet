@@ -3,23 +3,21 @@
 ## Semaine 9
 > Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
 
+Cette semaine a été parsemée de corrections et de réflexions.
 
-Cette semaine a été parsemée de défis.
-![défis](medias/exemple_general.jpg)
+Tout d’abord, comme prévu, nous avons scénarisé le projet dans le but de comprendre davantage ce qui se passe dans chaque chapitre autant au niveau sonore que visuel. Nous avons revu certains aspects de notre projet : intention, synopsis, moodboards visuel et sonore, schéma de plantation et de branchement, podium, liste de matériels et budget. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 2.
 
-Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
 ![exemple photoshop](medias/exemple_photoshop.jpg)
 
-Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
+Par la suite, nous avons visité les lieux de notre projet, soit le grand studio afin de déterminer le périmètre que nous voulons occuper au cours de la réalisation de notre projet et prendre des photos de celui-ci pour faire le schéma de plantation et veiller à ce qu'il soit le plus réaliste et le plus près de ce que nous imaginons. 
 
 ![Enregistrement en studio](medias/exemple_studio1.jpg)
 
-Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
+Enfin, nous avons également commencer à réfléchir et à créer une première esquisse présentant la direction artistique vers laquelle nous nous dirigeons pour le logo de notre projet.
+
 ![Projecteurs installés](medias/exemple_projector.jpg)
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
-
-
 
 ## Semaine 8
 
