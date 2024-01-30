@@ -20,7 +20,7 @@
 - Expliquer l'installation. 
 - Refaire les moodboards. 
 - Inclure les liens des vidéos de référence. 
-- Faire le devoir de Thomas pour la semaine 2. 
+- Faire le devoir de Thomas à remettre pour la semaine 2. 
 - Revoir la liste de matériels.
 - Revoir le budget.
 - Arranger les erreurs dans la présentation de la préproduction. 
