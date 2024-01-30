@@ -16,7 +16,7 @@
     - [Installation](#Installation)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
-    - [Rôle des composantes](#Rôle-des-composantes)
+    - [Rôle des composantes de M5Stack](#Rôle-des-composantes-de-M5Stack)
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
@@ -141,7 +141,7 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * 1 ordinateur portable
     * 1 ordinateur sur chariot
  
-* Arduino
+* M5Stack
     * 2 Atom Lite
     * 2 Atom POE
     * 6 Encodeurs
@@ -154,7 +154,7 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
     * Boîte sonore (à créer)
     * Podium (à créer)
 
-## Rôle des composantes
+## Rôle des composantes de M5Stack
 
 Encodeurs :
 * Mélodie qui change de gamme
