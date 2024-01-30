@@ -15,7 +15,7 @@ Par la suite, nous avons visité les lieux de notre projet, soit le grand studio
 
 Enfin, nous avons également commencer à réfléchir et à créer une première esquisse présentant la direction artistique vers laquelle nous nous dirigeons pour le logo de notre projet.
 
-![Image de la première esquisse du logo](medias/exemple_projector.jpg)
+![Image de la première esquisse du logo]()
 
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
