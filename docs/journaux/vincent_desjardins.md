@@ -22,20 +22,16 @@
   
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](/medias/vincent_desjardins/touch_4_ecran.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![image avec projection sur 3 ecran et distribuer sur 2 ordinateurs](/medias/vincent_desjardins/touch_4_ecran.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Nous avons completer le document de préprod ce qui nous permetra de bien séparer tout les taches du projets et permettre de se faire un horraire et se mettre des objectifs clairs et précis
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
@@ -54,12 +50,16 @@ Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+montrer au autres membre de l'équipe le fonctionnement de touchdesigner. Avancer, voir meme avoir fini un module sonore dans Vcv rack pour avoir un début d'expérience en parralele avec un visuel
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- enseigner à Camélie TouchDesigner pour pas que l'équipe soit dépendante de moi tout au long du projet.
+- 
+- ajustement des schéma de branchement suite aux rencontres avec les profs
+- commencer la creation du module sonore "génératif" dans Vcv rack
+- 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
