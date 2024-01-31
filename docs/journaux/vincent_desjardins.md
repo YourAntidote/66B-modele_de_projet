@@ -22,7 +22,7 @@
   
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![image avec projection sur 3 ecran et distribuer sur 2 ordinateurs](/medias/vincent_desjardins/touch_4_ecran.jpg)
+![image avec projection sur 3 ecran et distribuer sur 2 ordinateurs](medias/vincent_desjardins/touch_4_ecran.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
