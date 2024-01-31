@@ -7,7 +7,7 @@ Cette semaine a été parsemée de corrections et de réflexions.
 
 Tout d’abord, comme prévu, nous avons scénarisé le projet dans le but de comprendre davantage ce qui se passe dans chaque chapitre autant au niveau sonore que visuel. Nous avons revu certains aspects de notre projet : intention, synopsis, moodboards visuel et sonore, schéma de plantation et de branchement, podium, liste de matériels et budget. Aussi, nous avons fait le devoir donné par Thomas ce jeudi à remettre le jeudi suivant, donc à la semaine 2.
 
-![Image du travail sur la préproduction]()
+![Image du travail sur la préproduction](medias/collectif/image_travail_preproduction_s1.png)
 
 Par la suite, nous avons visité les lieux de notre projet, soit le grand studio afin de déterminer le périmètre que nous voulons occuper au cours de la réalisation de notre projet et prendre des photos de celui-ci pour faire le schéma de plantation et veiller à ce qu'il soit le plus réaliste et le plus près de ce que nous imaginons. 
 
