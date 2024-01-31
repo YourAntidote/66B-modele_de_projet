@@ -15,16 +15,14 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- clarifier les intentions et l'émergence de la riaosn du projet
+- creation du schéma de branchement pour l'instalation
+- création du schema de branchement pour le module interactif(la boite)
+- test pour pour sortir 4 flux videos avec touchdesigner dont 2 par NDI et les envoyer sur un autre ordinateurs
+  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![ici est une description de l'image](/medias/vincent_desjardins/touch_4_ecran.jpg)
 ou
 ![ici est une description de l'image](medias/console.jpg)
 ou
