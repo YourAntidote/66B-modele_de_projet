@@ -19,7 +19,6 @@
 - creation du schéma de branchement pour l'instalation
 - création du schema de branchement pour le module interactif(la boite)
 - test pour pour sortir 4 flux videos avec touchdesigner dont 2 par NDI et les envoyer sur un autre ordinateurs
-  
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image avec projection sur 3 ecran et distribuer sur 2 ordinateurs](medias/vincent_desjardins/touch_4_ecran.jpg)
@@ -56,10 +55,9 @@ montrer au autres membre de l'équipe le fonctionnement de touchdesigner. Avance
 ## Semaine 2
 ### Résumé des réalisations effectuées
 - enseigner à Camélie TouchDesigner pour pas que l'équipe soit dépendante de moi tout au long du projet.
-- 
 - ajustement des schéma de branchement suite aux rencontres avec les profs
 - commencer la creation du module sonore "génératif" dans Vcv rack
-- 
+- trouver une identité visuelle générative dans touch designer
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
