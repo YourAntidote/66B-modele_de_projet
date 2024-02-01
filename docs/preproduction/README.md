@@ -38,18 +38,18 @@
 Par ce projet, nous souhaitons pousser l'interacteur à se déchaîner de toutes de forme de contrôle pour laisser place à la céation complète d'un monde immersif et interactif qui mène vers une expérience hyperstimulative. De plus, le but de Sonalux est de repenser les idées préconçues d'un studio de musique dans un esthétique psychédélique qui permet de rendre l'installation accessible pour tout le monde. 
 
 ## Synopsis
-Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Chaque chapitre comportera différents éléments sonores et visuels accompagnés d'une introduction écrite au tout début de chacun. De plus, le passage d'un chapitre à l'autre sera annoncé par la transition de couleurs des bandes autocollantes LED disposées sur le podium. Le public est appelé à découvrir les différents chapitres qui composent le projet en explorant les diverses composantes de la boîte.
+Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur intensité graduelle sonore et visuelle ainsi que leur environnement qui devient davantage chaotique et explosif de couleurs et de sons. Le public est appelé à découvrir les particularités des différents tableaux qui composent le projet en explorant les diverses composantes de la boîte.
 
 ## Moodboard visuel
 
 ### Moodboard pour le mode veille
 > ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
-### Moodboard pour le chapitre 01
-> ![Moodboard pour le chapitre 01](medias/moodboards/moodboard_chapitre01.png)
-### Moodboard pour le chapitre 02
-> ![Moodboard pour le chapitre 02](medias/moodboards/moodboard_chapitre02.png)
-### Moodboard pour le chapitre 03
-> ![Moodboard pour le chapitre 03](medias/moodboards/moodboard_chapitre03.png)
+### Moodboard pour le tableau 01
+> ![Moodboard pour le tableau 01](medias/moodboards/moodboard_tableau01.png)
+### Moodboard pour le tableau 02
+> ![Moodboard pour le tableau 02](medias/moodboards/moodboard_tableau02.png)
+### Moodboard pour le tableau 03
+> ![Moodboard pour le tableau 03](medias/moodboards/moodboard_tableau03.png)
 ### Exemples de paysages visuels génératifs
 > [Circle packing - GLSL - (Touchdesigner tutorial)](https://www.youtube.com/watch?v=r3aOQMB7qiI)
 
@@ -90,8 +90,8 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 3 paysages visuels génératifs (TouchDesigner)
-- 3 paysages sonores (VCV Rack)
+- 5 paysages visuels génératifs (TouchDesigner)
+- 4 paysages sonores (VCV Rack)
 - 6 modules multimédias (Captation des données (kinect/boite son), interprétation des données, contrôle des tubes LED, effets audiovisuels, contrôle vidéo/mapping projection, contrôle de la navigation utilisateur & des différents sous-modules).
 
 # Planification technique d'un prototype (devis technique)
@@ -148,7 +148,7 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 * M5Stack
     * 2 Atom Lite
     * 2 Atom POE
-    * 6 Encodeurs
+    * 6 Encoder
     * 4 Key Unit
     * 2 PBHub
     * 1 GroveHub
