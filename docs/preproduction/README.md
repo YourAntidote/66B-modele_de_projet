@@ -211,6 +211,7 @@ Construire le podium et la boîte de sons et intégrer toutes ces différentes c
 - Coordination technique et artistique du projet
 - Création du module d'interprétation des données (Kinect)
 - Programmation du patch touchdesigner de génération vidéo
+- creation du module sonore generatif et interactif dans vcv rack
 
 **Camélie Laprise**
 - Coordination technique du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe)
