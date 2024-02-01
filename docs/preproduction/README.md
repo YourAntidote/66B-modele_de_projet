@@ -109,7 +109,7 @@ Sonalux est une expérience divisée en 3 chapitres qui se distinguent par leur 
 > ![Schéma de branchement de la boîte sonore](medias/schemas/schema_branchement_boite_sonore.png)
 
 ## Installation
-L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Encodeurs, Key Unit, PBHub, GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de LED tout autour qui réagiront au fil de l'interaction.
+L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans les herses, il y a deux hauts-parleurs ainsi que 4 projecteurs et une Kinect accrochés afin de projeter un son ambiant, trois projections et opérer une captation de présence. Au centre de l'installation se trouve un podium qui sert à contrôler les différents paysages sonores et visuels de l'expérience. Pour ce faire, l'interacteur devra utiliser une boite qui est posée au dessus du podium et qui est composée de différentes composantes M5Stack : Atom Lite, Atom POE, Encoder, Key Unit, PBHub, GroveHub, M5Stack Fader Unit w/ B10K Potentiometer. Le podium sera décoré de LED tout autour qui réagiront au fil de l'interaction.
 
 ## Matériel de scénographie requis
 
@@ -160,7 +160,7 @@ L'expérience se déroule entre 3 murs blancs, dont deux qui sont mobiles. Dans 
 
 ## Rôle des composantes de M5Stack
 
-Encodeurs :
+Encoder :
 * Mélodie qui change de gamme
 * Reverb
 * Dry\Wet Reverb
@@ -170,7 +170,7 @@ Encodeurs :
 * Release
 * Timbre\Harmonic
   
-Boutons (Toggle) :
+Key Unit (Toggle) :
 * Bass lignes
 * Hat
 * Kick
@@ -279,3 +279,53 @@ Nous souhaitons pousser l'intéracteur à se déchaîner de toutes de forme de c
 
 ### Que devrez-vous faire pour qu’il ait envie de réponde à ces questions ?
 Proposer une expérience nouvelle dont le public cherche à découvrir et leur permettant de s’amuser sans penser et réfléchir aux répercussions de leurs gestes les poussant davantage vers une créativité qui leur est unique. 
+
+## Semaine 2
+
+### Tous les verbes disponibles à vos interacteurs. 
+* Se déplacer
+* Peser
+* Tourner
+* Glisser
+* Écouter
+
+### Tous les objets sur lesquels chaque verbe peut agir et comment ils le font ?
+* Sol
+* Key Unit
+* Encoder
+* Fader
+* Casque d'écouteurs
+
+### Plusieurs actions émergentes que vous aimeriez que vos interacteurs effectuent.
+#### Modifications sonores
+Key Unit (Toggle) :
+* Bass lignes
+* Hat
+* Kick
+* Snare
+  
+Encoder :
+* Mélodie qui change de gamme
+* Reverb
+* Dry\Wet Reverb
+* Changement de Noise (White, Brown, Red, etc.)
+* Changement de Wave form.
+* Attack
+* Release
+* Timbre\Harmonic
+  
+Fader :
+* Changement de vitesse\Tempo
+* Volume
+  
+#### Modifications visuelles
+* Projection au sol suit les déplacements de l'interacteur
+* Projections au mur modifiées par les actions commises par l'interacteur aux composantes
+
+#### Modifications lumineuses 
+* Jeu des lumières impacté par les actions commises par l'interacteur aux composantes
+* Couleur des lumières influencée par les actions commises par l'interacteur aux composantes
+
+### Toutes les façons que les interacteurs peuvent faire progresser l'expérience.
+* Se déplacer à travers l'environnement délimitée pour le projet
+* Expérimenter les différentes composantes associées à la boîte sonore
