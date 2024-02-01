@@ -251,16 +251,16 @@ Sonalux
 Explorateur
 
 ### Comportement
-L’interacteur est amené à découvrir l’expérience en entrant dans la zone délimitée qui offre au sol une projection impactée par les déplacements de l’interacteur. Ce dernier est ensuite poussé à se diriger vers le podium pour manipuler les diverses composantes et ainsi créer sa propre composition sonore et visuelle.
+L’interacteur est amené à découvrir l’expérience en entrant dans la zone délimitée qui offre au sol une projection impactée par les déplacements de l’interacteur. Ce dernier est ensuite poussé à se diriger vers le podium pour manipuler de manière tactile les diverses composantes mises à sa disposition et ainsi créer sa propre composition sonore et visuelle. 
 
 ### Esthétique
 L’esthétique psychédélique des paysages sonores et visuels obligent l’interacteur à se déchaîner, car il n’a aucune référence sur ce qu’il voit et ce qu’il entend. Il découvre un monde sans contraintes inconnu du monde présent.
 
 ### Espace
-L’installation se présente comme une enceinte exclue afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent et vivent ensemble une toute nouvelle expérience.
+L’installation se présente comme une enceinte afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent l'espace virtuel et voyagent ensemble dans celui-ci menant vers une toute nouvelle expérience représentée comme étant un voyage astral. 
 
 ### Temps
-Le temps se divise en deux dans notre projet, à commencer avec ***chronos*** proposé par l’évolution graduelle vers un monde plus euphorique, il rappel à l’utilisateur dans quel tableau il se situe, il est objectif. Puis, il y a ***kairos*** qui est subjectif comme l’expérience vécue par les utilisateurs qui est propre à chacun. Lorsque l'interacteur quitte, le projet revient à l'état de veille comme lorsqu'il rentre, il en sort. Sonalux présente une boucle. 
+Le temps se présente sous la forme de ***kairos***, abandonnant complètement son autre forme du nom de ***chronos***. La notion de temps devient subjective, car on se perd en plongeant dans le plan de la conscience où le temps s'écoule différemment pour les utilisateurs.
 
 ### Quelles émotions voulez-vous faire vivre à l’interacteur ?
 
