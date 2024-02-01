@@ -329,3 +329,6 @@ Fader :
 ### Toutes les façons que les interacteurs peuvent faire progresser l'expérience.
 * Se déplacer à travers l'environnement délimitée pour le projet
 * Expérimenter les différentes composantes associées à la boîte sonore
+
+## Résumé du projet
+Sonalux est une installation qui dépasse les limites du réel pour proposer un monde psychédélique où la notion du temps n'existe plus. L'interacteur se voit projeter dans un espace virtuel où il en devient le maître par le contrôle absolu de ces pièces d'instruments. 
