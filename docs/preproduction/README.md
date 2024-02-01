@@ -233,3 +233,7 @@ Construire le podium et la boîte de sons et intégrer toutes ces différentes c
 - Installation de l'équipement dans l'espace physique
 - Coordination des projections/projecteurs
 - Création du boîtier interactif au milieu de l'installation
+
+# Direction artistique 
+
+## Semaine 1
