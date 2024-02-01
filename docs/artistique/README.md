@@ -24,7 +24,7 @@ L’esthétique psychédélique des paysages sonores et visuels obligent l’int
 L’installation se présente comme une enceinte exclue afin de mettre l’accent sur l’aspect immersif. De plus, l’espace permet d’accueillir plusieurs utilisateurs afin qu’ils découvrent et vivent ensemble une toute nouvelle expérience.
 
 ### Temps
-Le temps se divise en deux dans notre projet, à commencer avec ***chronos*** proposé par le changement de chapitres et l’évolution graduelle vers un monde plus euphorique, il rappel à l’utilisateur dans quel chapitre il se situe, il est objectif. Puis, il y a ***kairos*** qui est subjectif comme l’expérience vécue par les utilisateurs qui est propre à chacun.
+Le temps se divise en deux dans notre projet, à commencer avec ***chronos*** proposé par l’évolution graduelle vers un monde plus euphorique, il rappel à l’utilisateur dans quel tableau il se situe, il est objectif. Puis, il y a ***kairos*** qui est subjectif comme l’expérience vécue par les utilisateurs qui est propre à chacun. Lorsque l'interacteur quitte, le projet revient à l'état de veille comme lorsqu'il rentre, il en sort. Sonalux présente une boucle. 
 
 ### Quelles émotions voulez-vous faire vivre à l’interacteur ?
 
