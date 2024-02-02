@@ -56,8 +56,12 @@ Apprendre et maîtriser le logiciel TouchDesigner.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
-
+- Produire les paysages visuels dans TouchDesigner
+- Faire le devoir de Thomas à remettre pour la semaine 3
+- Refaire les moodbards selon l'esthétique choisie
+- Retravailler la préproduction 
+- Corriger le devoir 01 de Thomas
+  
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
