@@ -21,6 +21,7 @@
 - Scénariser les différents chapitres à l'aide de moodboards 
 - Compléter le devoir de Thomas 
 - Arranger les erreurs dans la présentation de la préproduction
+- Découvrir l'utilisation de TouchDesigner
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -32,7 +33,7 @@
 
 #### Décrivez pourquoi.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Parce que j'ai complété l'ensemble des tâches qui m'était assignées. De plus, je me suis familiarisé avec le logiciel de TouchDesigner.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -42,42 +43,37 @@
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-Apprendre à utiliser le logiciel TouchDesigner.
+Continuer à utiliser le logiciel TouchDesigner et m'améliorer.
 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
-
+- Réalisation d'un paysage visuel sur TouchDesigner
+- Correction de la préproduction
+- Réaliser le devoir de Thomas pour la semaine 3
+- Retravailler le travail 2
+  
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [ ] Assez
+- [x] Complètement
+- [ ] 
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
  
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 
