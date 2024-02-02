@@ -42,7 +42,7 @@ Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur i
 
 ## Moodboard visuel
 
-### Moodboard pour le mode veille
+### Moodboard pour la projection au sol
 > ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
 ### Moodboard pour le tableau 01
 > ![Moodboard pour le tableau 01](medias/moodboards/moodboard_tableau01.png)
