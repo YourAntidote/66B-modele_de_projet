@@ -43,13 +43,13 @@ Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur i
 ## Moodboard visuel
 
 ### Moodboard pour le mode veille
-> ![Moodboard pour le mode veille](medias/moodboards/moodboard_etat_veille.png)
+> ![Moodboard pour le mode veille](medias/moodboards/moodboard_mode_veille.png)
 ### Moodboard pour le tableau 01
 > ![Moodboard pour le tableau 01](medias/moodboards/moodboard_tableau01.png)
 ### Moodboard pour le tableau 02
 > ![Moodboard pour le tableau 02](medias/moodboards/moodboard_tableau02.png)
 ### Moodboard pour le tableau 03
-> ![Moodboard pour le tableau 03](medias/moodboards/moodboard_tableau03.png)
+> ![Moodboard pour le tableau 03](medias/moodboards/moodboard_tableau03(1).png)
 ### Exemples de paysages visuels génératifs
 > [Circle packing - GLSL - (Touchdesigner tutorial)](https://www.youtube.com/watch?v=r3aOQMB7qiI)
 
