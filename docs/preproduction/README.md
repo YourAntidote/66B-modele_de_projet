@@ -90,7 +90,7 @@ Sonalux est une expérience divisée en 3 tableaux qui se distinguent par leur i
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 5 paysages visuels génératifs (TouchDesigner)
+- 4 paysages visuels génératifs (TouchDesigner)
 - 4 paysages sonores (VCV Rack)
 - 6 modules multimédias (Captation des données (kinect/boite son), interprétation des données, contrôle des tubes LED, effets audiovisuels, contrôle vidéo/mapping projection, contrôle de la navigation utilisateur & des différents sous-modules).
 
